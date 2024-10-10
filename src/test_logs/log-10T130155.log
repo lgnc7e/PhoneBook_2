@@ -1,0 +1,56 @@
+13:01:56.047 [Test worker] INFO  com.phonebook.TestBase -- ***************** TESTING IN PROGRESS ******************
+13:01:58.329 [Test worker] INFO  com.phonebook.TestBase -- Test is startet: [isHomeComponentPresentTest]
+13:01:58.479 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //html/body/div/div/div/div/h1] on a page
+13:01:58.503 [Test worker] INFO  com.phonebook.TestBase -- Element was found
+13:02:03.542 [Test worker] INFO  com.phonebook.TestBase -- Test is startet with data: []
+13:02:03.542 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [isHomeComponentPresentTest]
+13:02:03.543 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [isHomeComponentPresentTest]
+13:02:03.546 [Test worker] INFO  com.phonebook.TestBase -- Test is startet: [addContactPositiveTest]
+13:02:04.145 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //button[.='Sign Out']] on a page
+13:02:04.782 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:12.612 [Test worker] INFO  com.phonebook.TestBase -- Test is startet with data: []
+13:02:12.613 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [addContactPositiveTest]
+13:02:12.613 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [addContactPositiveTest]
+13:02:12.615 [Test worker] INFO  com.phonebook.TestBase -- Test is startet: [addContactPositiveWithoutDescriptionTest]
+13:02:13.074 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //button[.='Sign Out']] on a page
+13:02:14.385 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:14.515 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:14.667 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:15.192 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:20.225 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:26.583 [Test worker] INFO  com.phonebook.TestBase -- Test is startet with data: []
+13:02:26.584 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [addContactPositiveWithoutDescriptionTest]
+13:02:26.584 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [addContactPositiveWithoutDescriptionTest]
+13:02:26.587 [Test worker] INFO  com.phonebook.TestBase -- Test is startet: [createOneAndDeleteOneContactTest]
+13:02:27.056 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //button[.='Sign Out']] on a page
+13:02:28.377 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:29.330 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:29.435 [Test worker] INFO  com.phonebook.TestBase -- Test is startet with data: []
+13:02:29.436 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [createOneAndDeleteOneContactTest]
+13:02:29.437 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [createOneAndDeleteOneContactTest]
+13:02:29.439 [Test worker] INFO  com.phonebook.TestBase -- Test is startet: [deleteAllContactsTests]
+13:02:29.929 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //button[.='Sign Out']] on a page
+13:02:31.341 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:31.647 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:31.779 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:32.311 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:32.339 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:32.352 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:32.497 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:33.022 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:38.085 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:43.103 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.className: contact-item_card__2SOIM] on a page
+13:02:48.163 [Test worker] INFO  com.phonebook.TestBase -- Test is startet with data: []
+13:02:48.164 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [deleteAllContactsTests]
+13:02:48.164 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [deleteAllContactsTests]
+13:02:48.166 [Test worker] INFO  com.phonebook.TestBase -- Test is startet: [loginExistedUserPositiveTest1]
+13:02:48.634 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //button[.='Sign Out']] on a page
+13:02:48.936 [Test worker] INFO  com.phonebook.TestBase -- Test is startet with data: []
+13:02:48.936 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest1]
+13:02:48.936 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest1]
+13:02:48.939 [Test worker] INFO  com.phonebook.TestBase -- Test is startet: [loginExistedUserPositiveTest2]
+13:02:49.421 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //button[.='Sign Out']] on a page
+13:02:49.733 [Test worker] INFO  com.phonebook.TestBase -- Test is startet with data: [email=Password@321]
+13:02:49.733 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [loginExistedUserPositiveTest2]
+13:02:49.733 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [loginExistedUserPositiveTest2]
+13:02:49.737 [Test worker] INFO  com.phonebook.TestBase -- ***************** ALL TEST END *****************

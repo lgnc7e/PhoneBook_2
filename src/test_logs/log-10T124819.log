@@ -1,0 +1,8 @@
+12:48:20.515 [Test worker] INFO  com.phonebook.TestBase -- ***************** TESTING IN PROGRESS ******************
+12:48:29.134 [Test worker] INFO  com.phonebook.TestBase -- Test is startet: [createAccountNegativeTest]
+12:48:30.815 [Test worker] WARN  com.phonebook.core.BaseHelper -- Alert has text: [User already exist]
+12:48:30.831 [Test worker] INFO  com.phonebook.core.BaseHelper -- Check [By.xpath: //div[.='Registration failed with code 409']] on a page
+12:48:35.855 [Test worker] INFO  com.phonebook.TestBase -- Test is startet with data: []
+12:48:35.856 [Test worker] INFO  com.phonebook.TestBase -- Test is PASSED: [createAccountNegativeTest]
+12:48:35.857 [Test worker] INFO  com.phonebook.TestBase -- Test is ended: [createAccountNegativeTest]
+12:48:35.869 [Test worker] INFO  com.phonebook.TestBase -- ***************** ALL TEST END *****************
