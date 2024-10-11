@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 public class ApplicationManager {
-    WebDriver driver;
+    public WebDriver driver;
     public WebDriverWait wait;
 
     UserHelper userHelper;
